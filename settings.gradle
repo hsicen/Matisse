@@ -1,0 +1,2 @@
+include ':app', ':matisse'
+rootProject.name='Matisse'
